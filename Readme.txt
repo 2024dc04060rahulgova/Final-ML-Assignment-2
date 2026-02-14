@@ -1,1 +1,18 @@
-2024DC04060_ Rahul gova_ ML Assignment 2Requirements streamlitscikit-learnnumpypandasmatplotlibjoblib
+2024DC04060_ Rahul gova_ ML Assignment 2
+
+
+Requirements 
+
+streamlit
+
+scikit-learn
+
+numpy
+
+pandas
+
+matplotlib
+
+joblib
+
+scikit-learn
