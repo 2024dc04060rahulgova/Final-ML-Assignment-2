@@ -11,7 +11,9 @@ import numpy as np
 
 
 # Load dataset
-df = pd.read_csv("https://drive.google.com/file/d/1S_beq_X6q2VOFjexNkPnk8nbhO7ZIuUH/view?usp=sharing")  
+url = "https://drive.google.com/uc?export=download&id=1S_beq_X6q2VOFjexNkPnk8nbhO7ZIuUH"
+df = pd.read_csv(url)
+#df = pd.read_csv("https://drive.google.com/file/d/1S_beq_X6q2VOFjexNkPnk8nbhO7ZIuUH/view?usp=sharing")  
 
 
 print("Dataset Shape:", df.shape)
